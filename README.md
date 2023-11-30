@@ -7,6 +7,6 @@ AND
 NAND
 XOR
 
-![Alt text](https://github.com/wyr241/perceptron_in_c/cost.png)
+![Training curve](https://github.com/wyr241/perceptron_in_c/blob/main/cost.png)
 
 Inspired by Tsoding
